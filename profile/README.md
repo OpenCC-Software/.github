@@ -17,3 +17,13 @@ Links to the ComputerCraft & OpenComputers mods:
 
 In case I wanted to share the programs I developed myself, I figured it would be a good idea to put them on a GitHub organization so people could access
 them easily to study them or use them directly.
+
+
+
+## List of applications
+
+- [OpenPackages Manager](https://github.com/OpenCC-Software/OpenPackages-Manager) - A simple program to manage dependencies for OpenCC Software APIs
+
+
+
+## List of APIs
